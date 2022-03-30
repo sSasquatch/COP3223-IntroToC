@@ -1,4 +1,4 @@
-/* Anthony Pionessa
+/* 
 8/25/17
  */
 
@@ -7,7 +7,7 @@
 
 //main function
 int main(void) {
-    printf("Anthony Pionessa");
+    printf("");
 
     return 0;
 }
