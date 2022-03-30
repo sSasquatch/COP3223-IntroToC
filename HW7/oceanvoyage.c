@@ -1,4 +1,4 @@
-/* Anthony Pionessa
+/* 
 COP3223C
 0003
 Project 7
